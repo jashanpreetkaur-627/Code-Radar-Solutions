@@ -7,9 +7,10 @@ int main(){
     max=a;
     if (b>max){
         max=b;
-    }if(c>max){
+    }
+    if (c>max){
         max=c;
     }
-    printf("%d\n",max)
+    printf("%d\n",max);
     return 0;
 }
