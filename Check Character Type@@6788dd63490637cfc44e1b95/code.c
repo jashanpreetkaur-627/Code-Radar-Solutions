@@ -16,7 +16,7 @@ int main() {
         case 'I':
         case 'O':
         case 'U':
-            printf("Vowel.\n", ch);
+            printf("Vowel\n", ch);
             break;
         default:
             printf("Consonant\n", ch);
