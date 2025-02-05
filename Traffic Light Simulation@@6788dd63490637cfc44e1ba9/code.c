@@ -13,10 +13,11 @@ int main() {
             printf("Go\n");
             break;
         case 'Y':
-            printf("Slow Down\n");
+            printf("Slow\n");
             break;
         default:
             printf("Invalid input\n");
     }
 
     return 0;
+}
