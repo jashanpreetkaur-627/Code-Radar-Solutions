@@ -6,7 +6,6 @@ int main() {
     // Input cost price and selling price
     scanf("%d", &costPrice);
 
-    printf("Enter selling price: ");
     scanf("%d", &sellingPrice);
 
     // Calculate profit or loss
