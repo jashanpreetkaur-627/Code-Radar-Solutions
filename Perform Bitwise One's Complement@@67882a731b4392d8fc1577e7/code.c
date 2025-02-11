@@ -2,9 +2,8 @@
 
 int main(){
     int a , onescomplement;
-    printf("%d",a);
     scanf("%d",&a);
     onescomplement = ~a;
-    printf("%d",a,onescomplement);
+    printf("%d\n",a,onescomplement);
     return 0;
 }
