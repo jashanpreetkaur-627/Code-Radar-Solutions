@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    int a;
+    int a , onescomplement;
+    printf("%d",a);
     scanf("%d",&a);
-    int result = ~a;
-    printf("%d\n", a , result);
+    onescomplement = ~n;
+    printf("%d",n,onescomplement);
     return 0;
 }
