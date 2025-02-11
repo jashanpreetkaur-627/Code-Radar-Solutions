@@ -5,6 +5,6 @@ int main(){
     printf("%d",a);
     scanf("%d",&a);
     onescomplement = ~n;
-    printf("%d",n,onescomplement);
+    printf("%d",a,onescomplement);
     return 0;
 }
