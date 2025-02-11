@@ -1,12 +1,12 @@
-#include <stdio.h>
-
-int main(){
+int main() {
     int N;
-    for++(N=1,b>n;i++){
-        for(n=j,i>=j
-       j++ ){printf("*")
-}
-printf("\n")
+
+    for (int i  = N; i <= N; i++) {
+        for (j = 0; j <= N; j++) {
+            printf("* "); 
+        }
+        printf("\n"); 
     }
+
     return 0;
 }
