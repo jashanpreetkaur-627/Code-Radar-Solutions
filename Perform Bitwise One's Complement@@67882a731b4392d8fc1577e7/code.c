@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int n, onesComplement;
+    int n;
     scanf("%d", &n);
-    onesComplement = ~n;
-    printf("%d\n", n, onesComplement);
+    printf("%d",~n);
     return 0;
 }
