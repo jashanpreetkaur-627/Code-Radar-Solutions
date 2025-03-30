@@ -1,7 +1,7 @@
 #include <stdio.h>
 void mult(int num);
 void mult(int num){
-    int i , num=0;
+    int i ;
     for(i=0;i<11;i++){
         printf("%d * %d = %d\n" , num , i , num*i);
         scanf("%d",&num);
