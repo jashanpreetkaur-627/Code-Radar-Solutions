@@ -1,11 +1,11 @@
 #include <stdio.h>
 void mult(int num);
 void mult(int num){
-    int i , num ;
+    int i , num=0;
     for(i=0;i<11;i++){
         printf("%d * %d = %d\n" , num , i , num*i);
         scanf("%d",&num);
-    }
+    }}
     int main(){
         int main(){
             int num;
@@ -14,4 +14,3 @@ void mult(int num){
             return 0;
         }
     }
-}
