@@ -8,7 +8,7 @@ void mult(int num){
     int main(){
         int main(){
             int num;
-            printf("%d",num);
+            
             scanf("%d",&num);
             mult(num);
             return 0;
