@@ -2,7 +2,7 @@
 void mult(int num);
 void mult(int num){
     for(int i=0;i<=10;i++){
-        printf("%d * %d = %d\n" , num , i , num*i);
+        printf("%d * %d = %d\n" , num , i , num * i);
        }
     }
     int main(){
